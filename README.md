@@ -69,7 +69,11 @@ I design and build scalable data pipelines, cloud-based architectures, and advan
 - [LinkedIn](https://www.linkedin.com/in/chinedu-agwunobi-b33939b3/)
 - 📧 chinedu.e.agwunobi@gmail.com
 
+
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chile93&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chile93&layout=compact&theme=radical)
+### 📊 GitHub Stats
+https://github-readme-stats.vercel.app/api?username=Chile93&show_icons=true&theme=radical
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=Chile93&layout=compact&theme=radical
+
