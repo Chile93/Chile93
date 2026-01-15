@@ -32,7 +32,7 @@ I design and build scalable data pipelines, cloud-based architectures, and advan
 - [Spotify ETL Pipeline with Airflow](https://github.com/Chile93/Spotify-Airflow-Data-Pipeline.git) – Airflow, AWS EC2, Python   
 - [Tokyo Olympics Analysis](https://github.com/Chile93/Olympic-Data-Analytics-Azure-End-To-End-Data-Engineering-Project.git) – Azure Databricks, PySpark, Power BI
 - [Secure Application Deployment on AWS using Well-Architected Framework (Security Pillar)](https://github.com/Chile93/Secure-Application-Deployment-on-AWS-Security-Pillar-.git) - AWS, VPC, EC2, RDS, S3, ALB, WAF, IAM, CloudFront
-- [Highly Available Architecture on AWS (Reliability Pillar)](https://github.com/Chile93/medicare-project.git) – AWS EC2, Apache, GitHub Automation   
+- [Highly Available Architecture on AWS (Reliability Pillar)](https://github.com/Chile93/Highly-Available-Architecture-on-AWS-Reliability-Pillar-.git) – AWS EC2, Apache, GitHub Automation   
 
 ---
 
