@@ -11,7 +11,7 @@ I design and build scalable data pipelines, cloud-based architectures, and advan
 - 🌍 Based in London, UK
 - 🎓 MSc in Data Science (Distinction) | Teesside University
 - 🎓 BSc Mathematics – Obafemi Awolowo University 
-- 💼 2+ years experience in Data Engineering & Cloud Solutions
+- 💼 3+ years experience in Data Engineering & Cloud Solutions
 - ☁️ Certified in AWS, Azure, and GCP
 - 📊 Skilled in Python, SQL, Spark, Airflow, Databricks, and Big Data technologies
 
